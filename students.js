@@ -93,7 +93,7 @@ function addStudents(L) {
 
 
         L.marker([26.4560078,-80.0922142]).addTo(map)
-                .bindPopup("<b>Josh Barmak</b><br />I posted something quick and short but since everyone is going into details so will I. I graduated Ithaca college with a degree in film and photography concentration in cinematography I went "abroad" to LA for a semester worked at a few film companies and a netflix movie. The goal is to make to LA if not that then NYC but I got offered an apprenticeship in Miami to work with this producer from first class alliance so I am doing that for now. <br>Here's my Vimeo check some of my college work out and hopefully you will see my name up on the big screen one day as a director !<br>http://vimeo.com/m/user15912950")
+                .bindPopup("<b>Josh Barmak</b><br />I posted something quick and short but since everyone is going into details so will I. I graduated Ithaca college with a degree in film and photography concentration in cinematography I went 'abroad' to LA for a semester worked at a few film companies and a netflix movie. The goal is to make to LA if not that then NYC but I got offered an apprenticeship in Miami to work with this producer from first class alliance so I am doing that for now. <br>Here's my Vimeo check some of my college work out and hopefully you will see my name up on the big screen one day as a director !<br>http://vimeo.com/m/user15912950")
 	
 		
         L.marker([40.42137, -74.67618]).addTo(map)
