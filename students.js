@@ -93,7 +93,7 @@ function addStudents(L) {
 
 
         L.marker([26.4560078,-80.0922142]).addTo(map)
-                .bindPopup("<b>Josh Barmak</b><br />I'm in Miami working for an executive producer doing film work.")
+                .bindPopup("<b>Josh Barmak</b><br />I posted something quick and short but since everyone is going into details so will I. I graduated Ithaca college with a degree in film and photography concentration in cinematography I went "abroad" to LA for a semester worked at a few film companies and a netflix movie. The goal is to make to LA if not that then NYC but I got offered an apprenticeship in Miami to work with this producer from first class alliance so I am doing that for now. <br>Here's my Vimeo check some of my college work out and hopefully you will see my name up on the big screen one day as a director !<br>http://vimeo.com/m/user15912950")
 	
 		
         L.marker([40.42137, -74.67618]).addTo(map)
@@ -282,7 +282,40 @@ L.marker([41.886628,-87.635017]).addTo(map)
     L.marker([43.74729, -73.75122]).addTo(map)
             .bindPopup("<b>TJ VanLiew</b><br />Hey guys. I live in the middle of Vermont where I am a proud lumberjack and father of 8. I am teaching my kids to be decent viking raiders. We live in the woods and hunt for food. I use the internet by strapping an SD card to a falcon's tallon, which is why it took my so long to post this.")
 
+    L.marker([40.523447,-74.470906]).addTo(map)
+    	    .bindPopup("<b>Lindsey Milch</b><br />Hey everyone! It's good to see how far we've all come. <br>I just graduated from Quinnipiac where I majored in Biomedical Science. There I was heavily involved with Relay for Life as the Ceremonies Coordinator and also tutored in mathematics. I'm currently back at home going to Rutgers School of Public Health to get my MPH in epidemiology and would like to double major in biostatistics. Soon I'll be starting fieldwork where I would like to work in the reproductive or maternal/child health area. Hopefully one day I'll find myself at a major health organization like the CDC or WHO, but I'm loving the public health area and look forward to seeing where it takes me.<br>Best of luck to everyone with their future endeavors!")
 
+    L.marker([39.953984,-75.173467]).addTo(map)
+    	    .bindPopup("<b>Connor Andres</b><br />Hey guys I am glad to see everyone is doing so well! I graduated from Ursinus college with a major in Business and Economics. I played soccer and track throughout all four years at school. I am currently living in center city Philadelphia working for PWC in the Risk Assurance practice. If you guys are ever in the city let me know and we can catch up and grab a drink!")
 
+    L.marker([40.7127837,-74.0059413]).addTo(map)
+    	    .bindPopup("<b>Robi Cai</b><br />Well it's 6:30 AM and I just got back from the office, and since I'll be back there in a couple of hours anyway figured I check this out before taking a quick nap.<br>Only glanced through a few of these, but already love what I see - it's great seeing all of the awesome paths people have chosen. Back in May, I obtained a piece of paper with some words (among which were 'Economics' and 'Psychology') and some weird Latin phrases. At school, I got a few brain cells knocked out of my head as a member of the boxing team (thereby negating my education), helped run an organization (China Care) dedicated to improving the lives of orphans in China and helping adopted orphans in the US adjust to their new country, and worked as a research assistant to a business school professor on the nature of CEOs.<br>I've since moved to NYC where I spend most of my days sitting in a cubicle breaking my keyboard and crashing my computer with Excel. Somehow, my actions contribute to large companies merging together.<br>If you're ever in the city, definitely reach out! Would love to hear about everything that's been going on since our younger days en la escuela secundaria (my Spanish is already going down the drain..). My parents still live in Monty too, so I'll be back for the occasional holidays. Best wishes to all of you and hope to see you soon!")
+
+    L.marker([40.505249,-74.45322]).addTo(map)
+    	    .bindPopup("<b>Katie Best</b><br />Hi everyone! Congratulations on all of your accomplishments, it's so great reading all of your stories. I graduated from Rutgers in May with a degree in Communications and minor in Digital Communication, Information, and Media Studies (or DCIM, for short). I interned for a couple of advertising agencies in their media planning departments, for one I was on the Walmart account and the other on the Nestle waters account including Nestle Pure Life, Poland Spring, Deer Park, Nestea, etc. I also did a marketing internship for This Old House magazine, a good read for those moving into new places and need some ideas for DIY home projects or home improvements. During the summer of 2013 I studied abroad in Rome taking courses in art history which was one of the most rewarding experiences of my life and I cannot wait to go back. Currently I am pursuing a Masters in Communication with a focus on digital communication at Rutgers, therefore I am living in Montgomery. It would be great to catch up with those still in or around the area so hit me up whenever! It'd be awesome if we could create some event for Thanksgiving Eve since it seems a lot of people will be around for the holidays!"[]
+
+    L.marker([40.7479061,-73.9662875]).addTo(map)
+    	    .bindPopup("<b>Jillian Mary</b><br />Hi everyone! So nice to hear what you all are up to! I'm currently doing a victory lap at University of Richmond for indoor and outdoor track. My goal is to make it to NCAA finals in the 5k/10k this year. But other than that, I'm majoring in accounting and management and recently accepted a full time offer with PricewaterhouseCoopers in NYC with their core assurance department. So basically, like Ryan, I'll be one of those auditors people seem to hate, but I promise we're actually doing some really interesting stuff! I don't get to come home a lot anymore, but I'll be back in Monty for thanksgiving so I'm sure I'll see a lot of you then!")
+    L.marker([40.0141905,-83.0309143]).addTo(map)
+    	    .bindPopup("<b>Sowmya Takkellapati</b><br />Hi everyone! This was a great idea and it's cool to see all the amazing things you all are doing! I graduated with a degree in biology from the University of Massachusetts and was pretty involved on campus. I did mostly community service based and leadership activities. I spent much of my time working with mental health services, schools/boys and girls clubs, and the Red Cross. Most of my activities there along with my degree solidified my decision to pursue pharmacy and I am now at The Ohio State University for the Doctor of Pharmacy Program. Hope all of you are doing well! ")
+    L.marker([40.503744,-74.831961]).addTo(map)
+    	    .bindPopup("<b>Car Ly</b><br />Hello everyone! So crazy hearing what everyone's been doing! So I graduated in May from Penn State with a major in Secondary Mathematics Education. During my 4 years at school I had a lot of great experiences. 2 summers ago I went to Beijing, China where I ran my own summer camp for 3 weeks. I taught English to a group of 10 chinese kindergarteners and taught them about English (American) sports. Last fall I had my student teaching experience in a high school in Pittsburgh so I lived by myself there for 4 months, but kinda loved Pittsburgh. My parents moved out of Montgomery last fall to Branchburg (Somerville) so I am currently living here. And yes, it's just as boring as Montgomery. After a very very short job search in June I was fortunate enough to get a full time job offer at J.P. Case Middle School in Flemington. So currently I am a 7th grade Math Teacher (with a 10 minute commute). And I am quickly realizing how annoying I was as a middle schooler (and high schooler too). I love teaching even though it's so exhausting and there definitely is never a dull moment with a day full of 7th graders. <br>I hope to see some of you around during the holidays if you're back home!! Good luck to everyone in their endeavors!")
+    L.marker({}).addTo(map)
+    	    .bindPopup("<b></b><br />")
+    L.marker({}).addTo(map)
+    	    .bindPopup("<b></b><br />")
+    L.marker({}).addTo(map)
+    	    .bindPopup("<b></b><br />")
+    L.marker({}).addTo(map)
+    	    .bindPopup("<b></b><br />")
+
+    L.marker({}).addTo(map)
+    	    .bindPopup("<b></b><br />")
+
+    L.marker({}).addTo(map)
+    	    .bindPopup("<b></b><br />")
+
+    L.marker({}).addTo(map)
+    	    .bindPopup("<b></b><br />")
 }
 
